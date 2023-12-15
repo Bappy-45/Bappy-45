@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Mahadi Hasan Bappy
+###  Hi 👋, I'm Mahadi Hasan Bappy
 #### Frontend Developer
  <img src="https://i.ibb.co/frW38Dy/Git-Hub-Cover-banner.jpg" alt="Git-Hub-Cover-banner" border="0"></a>
 
